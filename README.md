@@ -13,6 +13,7 @@ Data Analyst | Business Intelligence | SQL • Python • Power BI | Key Account
 Transformo datos en decisiones comerciales
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=80&size=32&duration=1000&pause=400&color=FFFFFF&center=true&multiline=true&width=1400&height=250&lines=Data+Analyst+%7C+Business+Intelligence+%7C++Key+Account+Manager+en+Alimentaci%C3%B3n;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;++;Transformo+datos+en+decisiones+comerciales;+;+)](https://git.io/typing-svg)
 ## 📩 Connect With Me / Conecta conmigo
 
 <p align="center">
