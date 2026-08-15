@@ -15,19 +15,19 @@ Transformo datos en decisiones comerciales
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans+Flex&weight=80&size=32&duration=1000&pause=400&color=FFFFFF&center=true&multiline=true&width=1400&height=250&lines=Data+Analyst+%7C+Business+Intelligence+%7C++Key+Account+Manager+en+Alimentaci%C3%B3n;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;++;Transformo+datos+en+decisiones+comerciales;+;+)](https://git.io/typing-svg)
 
-Soy un profesional de negocio con experiencia en desarrollo comercial, gestión B2B y operaciones internacionales, que con el tiempo encontró en los datos otra forma de entender el negocio y tomar mejores decisiones.
+Soy un profesional de negocio que está construyendo un perfil híbrido entre Business, Data y Sports Analytics.
 
-Siempre me ha generado curiosidad la realidad que existe detrás de los números. Me gusta identificar tendencias, entender de dónde salen los resultados y, sobre todo, conectar puntos que a primera vista no parecen relacionados. Esa curiosidad me llevó progresivamente hacia el análisis de datos, Business Intelligence y la visualización.
+Durante más de 6 años trabajando en entornos comerciales aprendí a mirar los resultados desde el negocio. Pero siempre hubo algo que me llamó especialmente la atención: la realidad que existe detrás de los números.
 
-Actualmente estoy ampliando mi perfil con formación en Big Data, Inteligencia Artificial, Business Analytics y Sports Data, trabajando con herramientas como Power BI, SQL, Python y estadística. Me interesa especialmente transformar datos en información que permita detectar patrones, generar insights y resolver problemas reales de negocio.
+Me gusta encontrar tendencias, entender de dónde salen los resultados y conectar puntos que no siempre son evidentes. Esa curiosidad me llevó hacia Business Intelligence, análisis de datos y estadística, y actualmente estoy profundizando en Power BI, SQL, Python, Big Data e Inteligencia Artificial.
 
-El deporte, y especialmente el fútbol, es uno de los ámbitos donde más disfruto aplicando esta forma de pensar. Las estadísticas, el rendimiento y la táctica siempre me han interesado, pero todavía más entender qué hay detrás de una decisión y cómo los datos pueden ayudar a tomarla mejor.
+El fútbol es otro de mis grandes campos de interés. Más que limitarme al resultado, me interesa entender el juego: táctica, rendimiento, patrones y las decisiones que pueden explicarse a través de los datos.
 
-Mi perfil se encuentra en la intersección entre Business + Data + Sports Analytics. Por eso mantengo abiertas dos vías profesionales que me resultan especialmente atractivas: desarrollar mi carrera como Business/Data Analyst en una empresa internacional o aplicar el análisis de datos al rendimiento, scouting y toma de decisiones en el fútbol.
+Mi objetivo es combinar la experiencia que ya tengo en negocio con nuevas capacidades analíticas para convertir datos en insights accionables y mejores decisiones.
 
-Me defino como una persona curiosa, persistente, analítica y resolutiva. Me gusta aprender, pero sobre todo me gusta encontrar problemas que resolver y entender cómo hacerlo mejor.
+Hoy veo dos caminos que me motivan especialmente: Business/Data Analyst en una empresa internacional o Sports Data Analyst aplicado al fútbol.
 
-Business experience → Data → Insights → Better decisions.
+Curioso. Analítico. Persistente. Resolutivo.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2000&pause=800&center=true&vCenter=true&multiline=true&width=1400&height=100&separator=%3C&lines=%E2%80%9CNo+solo+me+interesa+saber+qu%C3%A9+dicen+los+datos;+%3Cme+interesa+entender+qu%C3%A9+decisi%C3%B3n+hay+detr%C3%A1s+%3Cy+qu%C3%A9+decisi%C3%B3n+podemos+tomar+gracias+a+ellos.%E2%80%9D)](https://git.io/typing-svg)
 
