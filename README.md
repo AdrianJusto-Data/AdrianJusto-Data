@@ -117,9 +117,9 @@ Python · Scikit-learn · Pandas · NumPy · Machine Learning
 
 ## 📍 Proyecto de análisis predictivo y modelado de datos en el deporte
 
-Imagen
+Imagen - En proceso
 
-Descripción 
+Descripción  - En proceso
 
 **Tech Stack**  
 Python · Recommendation Systems · Machine Learning · Pandas · Data Analysis
@@ -136,9 +136,11 @@ Python · Recommendation Systems · Machine Learning · Pandas · Data Analysis
 
 ## 🏠 Proyecto Power BI - Vivienda, Inflación y Salarios en la UE
 
-Imagen
+<a href=" ">
+<img width="1453" height="801" alt="Captura_vivienda" src="https://github.com/user-attachments/assets/71ab2dcc-ac9a-4b08-8966-d61617d81983" />
+</a>
 
-Descripción 
+Descripción - En proceso
 
 **Tech Stack**  
 Power BI · Data Modeling · DAX · Business Intelligence · Data Visualization
